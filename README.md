@@ -17,6 +17,5 @@ public class tabuada {
 		System.out.println(tab+" X "+ x +" = "+res);
 	}
 	
-	
-	}
+      }
 }
